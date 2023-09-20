@@ -1,0 +1,23 @@
+c:\users\multistrada\documents\visual studio 2015\Projects\SRP\SRP\bin\Debug\SRP.exe.config
+c:\users\multistrada\documents\visual studio 2015\Projects\SRP\SRP\bin\Debug\SRP.exe
+c:\users\multistrada\documents\visual studio 2015\Projects\SRP\SRP\bin\Debug\SRP.pdb
+c:\users\multistrada\documents\visual studio 2015\Projects\SRP\SRP\obj\Debug\SRP.csprojResolveAssemblyReference.cache
+c:\users\multistrada\documents\visual studio 2015\Projects\SRP\SRP\obj\Debug\SRP.Properties.Resources.resources
+c:\users\multistrada\documents\visual studio 2015\Projects\SRP\SRP\obj\Debug\SRP.csproj.GenerateResource.Cache
+c:\users\multistrada\documents\visual studio 2015\Projects\SRP\SRP\obj\Debug\SRP.exe
+c:\users\multistrada\documents\visual studio 2015\Projects\SRP\SRP\obj\Debug\SRP.pdb
+c:\users\multistrada\documents\visual studio 2015\Projects\SRP\SRP\obj\Debug\SRP.Signup.resources
+c:\users\multistrada\documents\visual studio 2015\Projects\SRP\SRP\obj\Debug\SRP.Login.resources
+c:\users\multistrada\documents\visual studio 2015\Projects\SRP\SRP\obj\Debug\SRP.HomePage.resources
+C:\Users\A.M\Desktop\AUCA UNDERGRADUATE\COURSE NOTE\YEAR TWO SEMESTER ONE\DOTNET\LIVECLASS\SRP\SRP\SRP\bin\Debug\SRP.exe.config
+C:\Users\A.M\Desktop\AUCA UNDERGRADUATE\COURSE NOTE\YEAR TWO SEMESTER ONE\DOTNET\LIVECLASS\SRP\SRP\SRP\obj\Debug\SRP.exe
+C:\Users\A.M\Desktop\AUCA UNDERGRADUATE\COURSE NOTE\YEAR TWO SEMESTER ONE\DOTNET\LIVECLASS\SRP\SRP\SRP\obj\Debug\SRP.pdb
+C:\Users\A.M\Desktop\AUCA UNDERGRADUATE\COURSE NOTE\YEAR TWO SEMESTER ONE\DOTNET\LIVECLASS\SRP\SRP\SRP\bin\Debug\SRP.exe
+C:\Users\A.M\Desktop\AUCA UNDERGRADUATE\COURSE NOTE\YEAR TWO SEMESTER ONE\DOTNET\LIVECLASS\SRP\SRP\SRP\bin\Debug\SRP.pdb
+C:\Users\A.M\Desktop\AUCA UNDERGRADUATE\COURSE NOTE\YEAR TWO SEMESTER ONE\DOTNET\LIVECLASS\SRP\SRP\SRP\obj\Debug\SRP.csprojResolveAssemblyReference.cache
+C:\Users\A.M\Desktop\AUCA UNDERGRADUATE\COURSE NOTE\YEAR TWO SEMESTER ONE\DOTNET\LIVECLASS\SRP\SRP\SRP\obj\Debug\SRP.Signup.resources
+C:\Users\A.M\Desktop\AUCA UNDERGRADUATE\COURSE NOTE\YEAR TWO SEMESTER ONE\DOTNET\LIVECLASS\SRP\SRP\SRP\obj\Debug\SRP.HomePage.resources
+C:\Users\A.M\Desktop\AUCA UNDERGRADUATE\COURSE NOTE\YEAR TWO SEMESTER ONE\DOTNET\LIVECLASS\SRP\SRP\SRP\obj\Debug\SRP.Login.resources
+C:\Users\A.M\Desktop\AUCA UNDERGRADUATE\COURSE NOTE\YEAR TWO SEMESTER ONE\DOTNET\LIVECLASS\SRP\SRP\SRP\obj\Debug\SRP.Properties.Resources.resources
+C:\Users\A.M\Desktop\AUCA UNDERGRADUATE\COURSE NOTE\YEAR TWO SEMESTER ONE\DOTNET\LIVECLASS\SRP\SRP\SRP\obj\Debug\SRP.csproj.GenerateResource.Cache
+C:\Users\A.M\Desktop\AUCA UNDERGRADUATE\COURSE NOTE\YEAR TWO SEMESTER ONE\DOTNET\LIVECLASS\SRP\SRP\SRP\obj\Debug\SRP.Department.resources
